@@ -1,3 +1,4 @@
+[![Build Status](https://bartolomemalagonramirez.visualstudio.com/Space%20Game%20-%20Web%20-%20Pipeline/_apis/build/status/bartmalagon.mslearn-tailspin-spacegame-web?branchName=master)](https://bartolomemalagonramirez.visualstudio.com/Space%20Game%20-%20Web%20-%20Pipeline/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
